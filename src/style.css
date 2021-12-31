@@ -24,13 +24,13 @@ nav {
 }
 
 h1 {
-  font-size: 15px;
+  font-size: 25px;
   color: var(--secondary-color);
+  margin-bottom: 15px;
 }
 
 h2 {
   font-size: 20px;
-  font-family: var(--primary-font);
 }
 
 h2.name {
@@ -43,7 +43,7 @@ img.header-image {
 }
 
 div.color-background-gradient {
-  background-image: linear-gradient(to bottom, #f8931f, white 100%);
+  background-image: linear-gradient(to bottom, #ffb911, white 100%);
   padding-top: 35px;
   padding-bottom: 120px;
 }
@@ -69,11 +69,7 @@ img.welcome-image {
 }
 
 .container-3 {
-  margin-top: -200px;
-}
-
-p {
-  font-size: 18px;
+  margin-top: -150px;
 }
 
 img.image {
@@ -90,6 +86,16 @@ a {
 a:hover {
   color: var(--secondary-color);
   font-size: 17px;
+}
+
+a.link-normal {
+  color: var(--third-color);
+  font-size: 16px;
+}
+
+a.link-normal:hover {
+  font-size: 16px;
+  color: black;
 }
 
 .contact-home {
@@ -113,6 +119,14 @@ li.faq {
   background: white;
   border: 1px solid rgb(204, 204, 204);
   margin: 10px 200px;
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+li.vorstellung-projekt-agrar {
+  background: #e0c2c6;
+  border: 1px solid rgb(204, 204, 204);
+  margin: 10px 250px;
   margin-bottom: 10px;
   list-style: none;
 }
@@ -241,6 +255,7 @@ a:hover {
 .carousel {
   display: center;
   margin: 0 auto;
+  padding-top: 50px;
   width: 60%;
 }
 
@@ -350,7 +365,7 @@ a.link-homoeo-team {
   }
 
   h1 {
-    font-size: 50px;
+    font-size: px;
   }
 
   h1.name {
