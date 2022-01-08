@@ -170,6 +170,10 @@ body {
     margin-top: -30px;
   }
 
+  img.header-image {
+    margin-top: 0px;
+  }
+
   img.logo {
     width: 180px;
     height: 45px;
@@ -198,9 +202,9 @@ body {
     margin: 0 auto;
   }
 
-a.faq-link {
-  font-size: 16px;
-}
+  a.faq-link {
+    font-size: 16px;
+  }
 
   .card-text {
     font-size: 14.5px;
@@ -219,8 +223,9 @@ a.faq-link {
   .card {
     display: block;
     margin: 0 auto;
-    margin-bottom: 20px;
     max-width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 
   a.link-normal {
@@ -247,13 +252,16 @@ a.faq-link {
     margin-bottom: 20px;
   }
 }
-
 }
 
 @media (min-width: 576px) {
   body {
     width: 100;
     margin-top: -30px;
+  }
+
+  img.header-image {
+  margin-top: 0px;
   }
 
   img.logo {
@@ -302,11 +310,12 @@ a.faq-link {
     margin:0 auto;
   }
 
-  .card {
+   .card {
     display: block;
     margin: 0 auto;
-    margin-bottom: 20px;
     max-width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
   }
 
   a.link-normal {
