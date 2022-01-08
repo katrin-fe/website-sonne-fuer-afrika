@@ -218,10 +218,11 @@ body {
   }
 
   .card-text {
-    font-size: 14.5px;
+    font-size: 16px;
     color: black;
     padding-right: 15px;
     padding-left: 15px;
+    margin-top: -10px;
   }
 
   .card-body {
@@ -319,7 +320,7 @@ body {
   }
 
   .card-text {
-    font-size: 14.5px;
+    font-size: 16px;
     color: black;
     padding-right: 15px;
     padding-left: 15px;
