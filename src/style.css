@@ -185,12 +185,21 @@ body {
     margin-top: -10px;
   }
 
+  h2 {
+    font-size: 17px;
+  }
+
   .container {
     margin-top: -80px;
   }
 
   ul {
     padding-left: 0px;
+  }
+
+  .link-normal {
+    text-decoration: underline;
+    font-weight: 200;
   }
 
   div.container-2 {
@@ -228,10 +237,6 @@ body {
     max-width: 90%;
     margin-top: 20px;
     margin-bottom: 20px;
-  }
-
-    .clickable-small-cards {
-    border: 2px solid var(--third-color);
   }
 
   a.link-normal {
@@ -292,6 +297,7 @@ body {
   ul {
     padding-left: 0px;
   }
+  
   div.container-2 {
   margin: 0px;
   margin-left: 50px;
