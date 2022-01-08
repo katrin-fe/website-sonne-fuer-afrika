@@ -229,6 +229,7 @@ body {
     padding-right: 0px;
     width: 80%;
     margin:0 auto;
+    margin-top:
   }
 
   .card {
@@ -237,6 +238,10 @@ body {
     max-width: 90%;
     margin-top: 20px;
     margin-bottom: 20px;
+  }
+
+  .card-indexsite-2 {
+    margin-top: 70px;
   }
 
   a.link-normal {
@@ -333,6 +338,11 @@ body {
     max-width: 90%;
     margin-top: 20px;
     margin-bottom: 20px;
+  }
+
+    .card-indexsite-2 {
+    margin-bottom: 50px;
+
   }
 
   a.link-normal {
