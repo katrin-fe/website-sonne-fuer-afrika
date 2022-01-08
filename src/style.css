@@ -127,9 +127,9 @@ li.vorstellung-projekt-agrar {
   padding-right: 3px;
 }
 
- div.card-indexsite  {
-    margin-top: -85px;
-  }
+div.card-indexsite {
+  margin-top: -85px;
+}
 
 .card-body {
   margin-left: 30px;
@@ -165,7 +165,7 @@ li.vorstellung-projekt-agrar {
 }
 
 @media (max-width: 576px) {
-body {
+  body {
     width: 100;
     margin-top: -30px;
   }
@@ -203,10 +203,10 @@ body {
   }
 
   div.container-2 {
-  margin: 0px;
-  margin-left: 50px;
-  margin-right: 50px;
-}
+    margin: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
 
   li.faq {
     width: 75%;
@@ -229,8 +229,7 @@ body {
     padding-left: 0px;
     padding-right: 0px;
     width: 80%;
-    margin:0 auto;
-    margin-top:
+    margin: 0 auto;
   }
 
   .card {
@@ -262,17 +261,17 @@ body {
     width: 200;
   }
 
-@media (min-width: 768px) {
-  body {
-    width: 100;
-  }
+  @media (min-width: 768px) {
+    body {
+      width: 100;
+    }
 
-  .card {
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 20px;
+    .card {
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 20px;
+    }
   }
-}
 }
 
 @media (min-width: 576px) {
@@ -282,7 +281,7 @@ body {
   }
 
   img.header-image {
-  margin-top: 0px;
+    margin-top: 0px;
   }
 
   img.logo {
@@ -303,12 +302,12 @@ body {
   ul {
     padding-left: 0px;
   }
-  
+
   div.container-2 {
-  margin: 0px;
-  margin-left: 50px;
-  margin-right: 50px;
-}
+    margin: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
 
   li.faq {
     width: 75%;
@@ -330,10 +329,10 @@ body {
     padding-left: 0px;
     padding-right: 0px;
     width: 80%;
-    margin:0 auto;
+    margin: 0 auto;
   }
 
-   .card {
+  .card {
     display: block;
     margin: 0 auto;
     max-width: 90%;
@@ -341,9 +340,8 @@ body {
     margin-bottom: 20px;
   }
 
-    .card-indexsite-2 {
+  .card-indexsite-2 {
     margin-bottom: 50px;
-
   }
 
   a.link-normal {
@@ -359,22 +357,23 @@ body {
     max-width: 50%;
   }
 
-@media (min-width: 768px) {
-  body {
-    width: 100;
+  @media (min-width: 768px) {
+    body {
+      width: 100;
+    }
+
+    .card {
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 20px;
+    }
   }
 
-  .card {
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 20px;
-  }
-}
-
-@media (min-width: 1024px) {
-  .card {
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 20px;
+  @media (min-width: 1024px) {
+    .card {
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 20px;
+    }
   }
 }
