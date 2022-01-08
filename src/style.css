@@ -70,8 +70,8 @@ div.color-background {
 
 div.container-2 {
   margin: 0px;
-  padding-left: 350px;
-  padding-right: 350px;
+  margin-left: 350px;
+  margin-right: 350px;
 }
 
 img.image {
@@ -194,8 +194,10 @@ body {
   }
 
   div.container-2 {
-    padding: 0px;
-  }
+  margin: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
 
   li.faq {
     width: 75%;
@@ -290,10 +292,11 @@ body {
   ul {
     padding-left: 0px;
   }
-
   div.container-2 {
-    padding: 0px;
-  }
+  margin: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
 
   li.faq {
     width: 75%;
