@@ -210,6 +210,10 @@ div.card-indexsite {
     margin-right: 50px;
   }
 
+  .faq {
+    padding-top: 30px;
+  }
+
   li.faq {
     width: 75%;
     margin: 0 auto;
@@ -242,8 +246,8 @@ div.card-indexsite {
     margin-bottom: 20px;
   }
 
-  .card-indexsite-2 {
-    margin-top: 70px;
+  .card-indexsite-1 {
+    margin-bottom: 70px;
   }
 
   a.link-normal {
@@ -309,6 +313,10 @@ div.card-indexsite {
     margin: 0px;
     margin-left: 50px;
     margin-right: 50px;
+  }
+
+  .faq {
+    padding-top: 30px;
   }
 
   li.faq {
