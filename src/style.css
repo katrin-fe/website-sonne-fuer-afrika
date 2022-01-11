@@ -45,6 +45,7 @@ div.color-background-gradient {
   background-image: linear-gradient(to bottom, #ffb911, white 100%);
   padding-top: 35px;
   padding-bottom: 120px;
+  margin-bottom: 0px;
 }
 
 div.color-background {
@@ -129,6 +130,7 @@ li.vorstellung-projekt-agrar {
 
 div.card-indexsite {
   margin-top: -85px;
+  background: src("img/taylor-wilcox-us5Ti3ladQY-unsplash");
 }
 
 .card-body {
