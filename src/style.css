@@ -163,6 +163,11 @@ div.card-indexsite {
   width: 60%;
 }
 
+.accordion {
+  width: 60%;
+  margin: 0 auto;
+}
+
 @media (max-width: 300px) {
 }
 
