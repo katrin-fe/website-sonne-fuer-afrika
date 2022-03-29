@@ -171,6 +171,11 @@ div.card-indexsite {
   text-align: left;
 }
 
+.space {
+  padding-top: 180px;
+  background-color: var(--third-color);
+}
+
 @media (max-width: 300px) {
 }
 
@@ -284,6 +289,11 @@ div.card-indexsite {
     padding-top: 20px;
     padding-bottom: 10px;
   }
+
+  .space {
+    padding-top: 100px;
+    background-color: var(--third-color);
+  }
 }
 
 @media (min-width: 768px) {
@@ -379,6 +389,11 @@ div.card-indexsite {
   .carousel {
     width: 100%;
     padding-top: 25px;
+  }
+
+  .space {
+    padding-top: 140px;
+    background-color: var(--third-color);
   }
 }
 
