@@ -328,6 +328,10 @@ div.card-indexsite {
     padding-top: 100px;
     background-color: var(--third-color);
   }
+
+  .responsive {
+    min-width: 90%;
+  }
 }
 
 @media (min-width: 768px) {
