@@ -42,6 +42,12 @@ h2 {
   padding-top: 10px;
 }
 
+h3 {
+  font-size: 17px;
+  font-weight: 800;
+  color: var(--third-color);
+}
+
 img.header-image {
   margin-top: 10px;
   width: 100%;
