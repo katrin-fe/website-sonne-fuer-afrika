@@ -332,6 +332,10 @@ div.card-indexsite {
   .responsive {
     min-width: 90%;
   }
+
+  .accordion {
+    width: 60%;
+  }
 }
 
 @media (min-width: 768px) {
