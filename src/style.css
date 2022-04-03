@@ -275,10 +275,6 @@ div.card-indexsite {
     font-size: 16px;
   }
 
-  .accordion {
-    min-width: 400px;
-  }
-
   .card-text {
     font-size: 18px;
     color: black;
@@ -333,8 +329,8 @@ div.card-indexsite {
     min-width: 90%;
   }
 
-  .accordion {
-    width: 60%;
+  .accordion-item {
+    width: 100%;
   }
 }
 
